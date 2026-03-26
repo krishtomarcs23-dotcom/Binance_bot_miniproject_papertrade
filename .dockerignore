@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+.git/
+API_DOCUMENTATION.md
+README.md
