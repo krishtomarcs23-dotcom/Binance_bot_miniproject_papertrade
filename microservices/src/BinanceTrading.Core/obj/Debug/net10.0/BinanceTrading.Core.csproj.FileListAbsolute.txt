@@ -1,0 +1,12 @@
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\bin\Debug\net10.0\BinanceTrading.Core.deps.json
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\bin\Debug\net10.0\BinanceTrading.Core.dll
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\bin\Debug\net10.0\BinanceTrading.Core.pdb
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.AssemblyInfoInputs.cache
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.AssemblyInfo.cs
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.csproj.CoreCompileInputs.cache
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.dll
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\refint\BinanceTrading.Core.dll
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.pdb
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\ref\BinanceTrading.Core.dll
+C:\Users\krish\Documents\Binance_bot_miniproject_papertrade\microservices\src\BinanceTrading.Core\obj\Debug\net10.0\BinanceTrading.Core.csproj.AssemblyReference.cache
