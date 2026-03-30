@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BinanceTrading.AdminService/BinanceTrading.AdminService.csproj" />
+    <Project Path="src/BinanceTrading.ApiGateway/BinanceTrading.ApiGateway.csproj" />
+    <Project Path="src/BinanceTrading.CLI/BinanceTrading.CLI.csproj" />
+    <Project Path="src/BinanceTrading.Core/BinanceTrading.Core.csproj" />
+    <Project Path="src/BinanceTrading.TradingService/BinanceTrading.TradingService.csproj" />
+    <Project Path="src/BinanceTrading.UserService/BinanceTrading.UserService.csproj" />
+  </Folder>
+</Solution>
