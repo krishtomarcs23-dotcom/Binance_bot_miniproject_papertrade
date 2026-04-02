@@ -2,8 +2,5 @@
 node_modules/
 .env
 bin/
-<<<<<<< HEAD
 obj/
-=======
-obj/
->>>>>>> krish
+>>>>>>>>> Temporary merge branch 2
